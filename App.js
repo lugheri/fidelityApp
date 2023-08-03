@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View >
-      <Text>Funfando</Text>
+      <Text>App</Text>
     </View>
   );
 }
